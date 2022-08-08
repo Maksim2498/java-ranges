@@ -1,1 +1,3 @@
-Something will be written here soon..
+# Java Ranges
+
+This library provides the most basic ranges classes and interfaces.
