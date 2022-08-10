@@ -1,6 +1,6 @@
 package space.moontalk.ranges;
 
-import org.checkerframework.checker.nullness.qual.NonNull;
+import org.jetbrains.annotations.NotNull;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
@@ -8,9 +8,9 @@ import lombok.Getter;
 @Getter
 @AllArgsConstructor
 public abstract class AbstractRange<T extends Comparable<T>> implements Range<T> {
-    @NonNull
+    @NotNull
     private final T low;
 
-    @NonNull
+    @NotNull
     private final T high;
 }

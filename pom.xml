@@ -4,8 +4,7 @@
 
     <groupId>space.moontalk</groupId>
     <artifactId>ranges</artifactId>
-    <version>1.0.0</version>
-
+    <version>1.0.1</version>
     <name>Ranges</name>
     <description>Small ranges library</description>
     <url>https://github.com/Maksim2498/java-ranges</url>
@@ -16,9 +15,9 @@
 
     <dependencies>
         <dependency>
-            <groupId>org.checkerframework</groupId>
-            <artifactId>checker-qual</artifactId>
-            <version>3.23.0</version>
+            <groupId>org.jetbrains</groupId>
+            <artifactId>annotations</artifactId>
+            <version>23.0.0</version>
         </dependency>
         <dependency>
             <groupId>org.projectlombok</groupId>

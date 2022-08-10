@@ -1,9 +1,9 @@
 package space.moontalk.ranges;
 
-import org.checkerframework.checker.nullness.qual.NonNull;
+import org.jetbrains.annotations.NotNull;
 
 public class ByteRange extends AbstractRange<Byte> {
-    public ByteRange(@NonNull Byte low, @NonNull Byte high) {
+    public ByteRange(@NotNull Byte low, @NotNull Byte high) {
         super(low, high);
     }
 }

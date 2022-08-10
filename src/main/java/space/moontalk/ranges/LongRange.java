@@ -1,9 +1,9 @@
 package space.moontalk.ranges;
 
-import org.checkerframework.checker.nullness.qual.NonNull;
+import org.jetbrains.annotations.NotNull;
 
 public class LongRange extends AbstractRange<Long> {
-    public LongRange(@NonNull Long low, @NonNull Long high) {
+    public LongRange(@NotNull Long low, @NotNull Long high) {
         super(low, high);
     }
 }
