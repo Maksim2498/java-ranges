@@ -16,15 +16,15 @@ This library provides the most basic ranges classes and interfaces.
 All ranges are inclusive.
 
 Interfaces:
-- (`Range`)[/src/main/java/space/moontalk/ranges/Range.java].
+- [`Range`](/src/main/java/space/moontalk/ranges/Range.java).
 
 Classes:
-- (`ByteRange`)[/src/main/java/space/moontalk/ranges/ByteRange.java];
-- (`ShortRange`)[/src/main/java/space/moontalk/ranges/ShortRange.java];
-- (`IntegerRange`)[/src/main/java/space/moontalk/ranges/IntegerRange.java];
-- (`LongRange`)[/src/main/java/space/moontalk/ranges/LongRange.java];
-- (`FloatRange`)[/src/main/java/space/moontalk/ranges/FloatRange.java];
-- (`DoubleRange`)[/src/main/java/space/moontalk/ranges/DoubleRange.java].
+- [`ByteRange`](/src/main/java/space/moontalk/ranges/ByteRange.java);
+- [`ShortRange`](/src/main/java/space/moontalk/ranges/ShortRange.java);
+- [`IntegerRange`](/src/main/java/space/moontalk/ranges/IntegerRange.java);
+- [`LongRange`](/src/main/java/space/moontalk/ranges/LongRange.java);
+- [`FloatRange`](/src/main/java/space/moontalk/ranges/FloatRange.java);
+- [`DoubleRange`](/src/main/java/space/moontalk/ranges/DoubleRange.java).
 
 ## Installation
 
