@@ -13,6 +13,18 @@
 ## About
 
 This library provides the most basic ranges classes and interfaces.
+All ranges are inclusive.
+
+Interfaces:
+- `Range`.
+
+Classes:
+- `ByteRange`;
+- `ShortRange`;
+- `IntegerRange`;
+- `LongRange`;
+- `FloatRange`;
+- `DoubleRange`;
 
 ## Installation
 
